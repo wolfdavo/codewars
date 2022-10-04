@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wolfdavo/codewars/issues"
   },
-  "homepage": "https://github.com/wolfdavo/codewars#readme"
+  "homepage": "https://github.com/wolfdavo/codewars#readme",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
 }
